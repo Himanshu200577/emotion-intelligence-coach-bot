@@ -1,4 +1,4 @@
-# emotion-intelligence-coach-bot
+# Emotion-Intelligence-Coach-Bot
 # Overview
 The Emotional Intelligence Coach Bot is an AI-powered conversational assistant designed to support users in understanding and managing their emotions. It offers empathetic responses, personalized advice, and motivational guidance focused on emotional well-being, stress management, and empathy development.
 
