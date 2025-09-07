@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-API_KEY = os.getenv("DIFY_API_KEY")
+API_KEY = app-5OKdGl0ogfvNqQRwe35q5g7p
 API_URL = "https://api.dify.ai/v1/chat-messages"
 
 def ask_dify(user_msg):
@@ -39,3 +39,4 @@ if user_msg:
 
 for speaker, msg in st.session_state["history"]:
     st.markdown(f"**{speaker}:** {msg}")
+
